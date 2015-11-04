@@ -1,5 +1,9 @@
+# Folders
+server-files/
+
 # Object file
 *.o
 
 # Ada Library Information
 *.ali
+
